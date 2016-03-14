@@ -8,10 +8,22 @@
 	flex-wrap: nowrap;
 	justify-content:space-around;
 }
+.team-logo{
+	width: 80px;
+	height: 80px;
+	float: left;
+	display: inline;
+}
+.team-name{
+	font-size: 15px;
+	float: left;
+	display: inline;
+}
 .section1{
+	display: inline-block;
 	border: 1px solid #999;
 	padding: 20px;
-	width: 200px;
+	width: 158px;
 	flex: none;
 	-webkit-flex:none;
 }
@@ -24,7 +36,7 @@
 .section3{
 	border: 1px solid #999;
 	padding: 20px;
-	width: 120px;
+	width: 78px;
 	flex: none;
 	-webkit-flex:none;
 }
