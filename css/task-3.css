@@ -20,6 +20,7 @@
 	display: inline;
 }
 .section1{
+	margin: 1%;
 	display: inline-block;
 	border: 1px solid #999;
 	padding: 20px;
@@ -31,9 +32,10 @@
 	border: 1px solid #999;
 	padding: 20px;
 	flex-grow: 1;
-	margin: 0 auto;
+	margin: 1% auto;
 }
 .section3{
+	margin: 1%;
 	border: 1px solid #999;
 	padding: 20px;
 	width: 78px;
