@@ -1,0 +1,31 @@
+.team-page{
+	margin: 1%;
+	padding: 20px;
+	background-color: #eee;
+	border-color: #999;
+	display: flex;
+	display: -webkit-flex;
+	flex-wrap: nowrap;
+	justify-content:space-around;
+}
+.section1{
+	padding: 20px;
+	width: 200px;
+	flex: none;
+	-webkit-flex:none;
+}
+.section2{
+	padding: 20px;
+	flex-grow: 1;
+	margin: 0 auto;
+}
+.section3{
+	padding: 20px;
+	width: 120px;
+	flex: none;
+	-webkit-flex:none;
+}
+.section3 p>img{
+	width: 80px;
+	height: 80px;
+}
