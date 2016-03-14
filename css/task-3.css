@@ -2,24 +2,27 @@
 	margin: 1%;
 	padding: 20px;
 	background-color: #eee;
-	border-color: #999;
+	border: 1px solid #999;
 	display: flex;
 	display: -webkit-flex;
 	flex-wrap: nowrap;
 	justify-content:space-around;
 }
 .section1{
+	border: 1px solid #999;
 	padding: 20px;
 	width: 200px;
 	flex: none;
 	-webkit-flex:none;
 }
 .section2{
+	border: 1px solid #999;
 	padding: 20px;
 	flex-grow: 1;
 	margin: 0 auto;
 }
 .section3{
+	border: 1px solid #999;
 	padding: 20px;
 	width: 120px;
 	flex: none;
